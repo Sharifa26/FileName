@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+body {
+    background-color: #ccf381
+}
+
+.head{
+    margin:  100px 450px;
+    color: darkslategrey;
+}
+
+p {
+ text-decoration: solid;
+}
+
+.container {
+    
+    margin:  100px auto;
+    width: 500px;
+    background-color:#596206;
+    height: 180px;
+    justify-content:center;
+    box-shadow: 0.5px;
+    border-radius: 10px;
+
+}
+
+#my-file {
+    margin: 20px;
+    justify-content: center;
+    color: rgba(6, 3, 18, 0.951);
+}
+
+#message {
+    width: 450px;
+    height: 30px;
+    margin: 15px;
+    justify-content: center;
+    color: rgba(6, 3, 18, 0.951);
+    background-color: #ccf381;
+    border-radius: 10px;
+}
